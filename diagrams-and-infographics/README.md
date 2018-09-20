@@ -1,7 +1,7 @@
 ### Software archetecture
 
 For diagrams explaining the archetecture of the protocol code base as used in the Scala 
-[reference implmentation](https://github.com/Constellation-Labs/constellation), 
+[reference implementation](https://github.com/Constellation-Labs/constellation), 
 see the documentaiton folder of the corresponding repository:
 
 * [constellation/docs/architecture/images](https://github.com/Constellation-Labs/constellation/docs/architecture/images) 
