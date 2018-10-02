@@ -5,6 +5,10 @@
 
 This repository holds Constellation branding images with the logo and lettering, as well as product screenshots, graphics and mugshots. For the different categories, you find content descriptions for all the folders in the table below. 
 
+Note: This repository has a relatively large size of just under 100 Mb, mostly due to the >100 graphics in the 
+[logo](https://github.com/Constellation-Labs/visual-identity/tree/master/logos) 
+folder.
+
 ### :two_hearts:Contributing
 If you create awesome visual Constellation related content, consider posting it on the 
 [**Orion** community portal](https://orion.constellationlabs.io/)! 
@@ -17,7 +21,9 @@ Please only commit to this repository with images that are owned by you, the pub
 ### :triangular_ruler:Constellation logo specifications
 * The logo graph is comprised of three 
 [hexagons](https://en.wikipedia.org/wiki/Hexagon) 
-with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also explained in [this clip](https://www.youtube.com/watch?v=XbGvJpL5OTM&index=1&list=PL_vIhjXh1UTpRShlXYlItkXPjIS5aWLPH).
+with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also explained in 
+[this clip](https://www.youtube.com/watch?v=XbGvJpL5OTM&index=1&list=PL_vIhjXh1UTpRShlXYlItkXPjIS5aWLPH).
+
 * Colors used in our branding are: (tbd)
 
 ### :open_file_folder:Content classes in this repository
@@ -26,20 +32,27 @@ with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also 
 | ------------- | ------------- |
 | **abstract-formats** | Branding with artificial flat backgrounds | 
 | **animations** | Branding with gifs, etc. |
-| **avatars** | Square profile images | 
 | **banners** | Website banners |
 | **diagrams-and-infographics** | Roadmaps, algorithmic flowcharts, etc. |
 | **humor** | Pictures that aren't all that serious |
-| **icons** | Tiny images |
+| **logo** | **See subfolders below** |
 | **photo-formats** | Branding with photo-type images |
 | **product-screenshots** | Presentation material from websites, user interfaces, etc. |
 | **team-and-contributors** | Profiles, mugshots, photos of individuals |
-| **vector-formats** | Branding with vector graphics |
 | **wallpapers** | Desktop wallpapers | 
+
+| logo subfolder  | content class |
+| ------------- | ------------- |
+| **avatars** | Square profile images | 
+| **icons** | Tiny images |
+| **overlay** | Abstract overlay formats | 
+| **print** | Print formats such as jpg |
+| **raster** | [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics) | 
+| **vector** | [Vector graphics](https://en.wikipedia.org/wiki/Vector_graphics) |
 
 
 ---
 
 More content can be found in the 
 [awesome-constellation](https://github.com/Constellation-Labs/awesome-constellation) 
-resource list. 
+resource list.
