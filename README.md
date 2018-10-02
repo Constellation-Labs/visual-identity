@@ -6,7 +6,7 @@
 This repository holds Constellation branding images with the logo and lettering, as well as product screenshots, graphics and mugshots. For the different categories, you find content descriptions for all the folders in the table below. 
 
 Note: This repository has a relatively large size of just under 100 Mb, mostly due to the >100 graphics in the 
-[logo](https://github.com/Constellation-Labs/visual-identity/tree/master/logos) 
+[**logo**](https://github.com/Constellation-Labs/visual-identity/tree/master/logo) 
 folder.
 
 ### :two_hearts:Contributing
@@ -28,20 +28,20 @@ with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also 
 
 ### :open_file_folder:Content classes in this repository
 
-| folder  | content class |
+| root folder  | content class |
 | ------------- | ------------- |
 | **abstract-formats** | Branding with artificial flat backgrounds | 
 | **animations** | Branding with gifs, etc. |
 | **banners** | Website banners |
 | **diagrams-and-infographics** | Roadmaps, algorithmic flowcharts, etc. |
-| **humor** | Pictures that aren't all that serious |
-| **logo** | **See subfolders below** |
+| [**humor**](https://github.com/Constellation-Labs/visual-identity/tree/master/logo)  | Pictures that aren't all that serious |
+| [**logo**](https://github.com/Constellation-Labs/visual-identity/tree/master/logos)  | **See subfolders below** |
 | **photo-formats** | Branding with photo-type images |
 | **product-screenshots** | Presentation material from websites, user interfaces, etc. |
 | **team-and-contributors** | Profiles, mugshots, photos of individuals |
 | **wallpapers** | Desktop wallpapers | 
 
-| logo subfolder  | content class |
+| [**logo**](https://github.com/Constellation-Labs/visual-identity/tree/master/logos) subfolder  | content class |
 | ------------- | ------------- |
 | **avatars** | Square profile images | 
 | **icons** | Tiny images |
