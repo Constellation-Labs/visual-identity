@@ -31,11 +31,11 @@ with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also 
 | root folder  | content class |
 | ------------- | ------------- |
 | **abstract-formats** | Branding with artificial flat backgrounds | 
-| **animations** | Branding with gifs, etc. |
+| [**animations**](https://github.com/Constellation-Labs/visual-identity/tree/master/animations) | Branding with gifs, etc. |
 | **banners** | Website banners |
 | **diagrams-and-infographics** | Roadmaps, algorithmic flowcharts, etc. |
-| [**humor**](https://github.com/Constellation-Labs/visual-identity/tree/master/logo)  | Pictures that aren't all that serious |
-| [**logo**](https://github.com/Constellation-Labs/visual-identity/tree/master/logos)  | **See subfolders below** |
+| [**humor**](https://github.com/Constellation-Labs/visual-identity/tree/master/humor)  | Pictures that aren't all that serious |
+| [**logo**](https://github.com/Constellation-Labs/visual-identity/tree/master/logo)  | **See subfolders below** |
 | **photo-formats** | Branding with photo-type images |
 | **product-screenshots** | Presentation material from websites, user interfaces, etc. |
 | **team-and-contributors** | Profiles, mugshots, photos of individuals |
